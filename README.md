@@ -1,13 +1,14 @@
 # Howdy 🤠
 
-![Views](https://komarev.com/ghpvc/?username=thezoid)
+![Views](https://komarev.com/ghpvc/?username=thezoid&style=for-the-badge)
 
 I'm Zoid, an IT Architect and DevSecOps engineer operating in the public and private space. I also make games and other automation oriented apps in my spare time!
 
-<figure align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=thezoid&count_private=true&theme=github_dark&show_icons=true&line_height=40&hide_border=true" alt ="Github Stats">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezoid&count_private=true&theme=github_dark&line_height=10&hide_border=true" alt="Top Languages">
-     <figcaption ><i>Note: most work is done in private repositories on and off GitHub (ADO, BitBucket, etc.)</i></figcaption>
+
+<figure>
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=thezoid&count_private=true&theme=github_dark&show_icons=true&line_height=40&hide_border=true" alt ="Github Stats">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezoid&count_private=true&theme=github_dark&line_height=10&hide_border=true" alt="Top Languages">
+     <figcaption align="center" ><i>Note: most work is done in private repositories on and off GitHub (ADO, BitBucket, etc.)</i></figcaption>
 </figure>
 
 ## Find Me Here:
