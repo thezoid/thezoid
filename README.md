@@ -1,23 +1,21 @@
 # Howdy 🤠
 
-<p align="center">
-     <img src="https://komarev.com/ghpvc/?username=thezoid&style=for-the-badge" alt="views badge">
-</p>
+<img src="https://komarev.com/ghpvc/?username=thezoid&style=for-the-badge" alt="views badge">
 
 I'm Zoid, an IT Architect and DevSecOps engineer operating in the public and private space. I also make games and other automation oriented apps in my spare time!
 
-
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=thezoid&count_private=true&theme=github_dark&show_icons=true&line_height=40&hide_border=true" alt ="Github Stats"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezoid&count_private=true&theme=github_dark&line_height=10&hide_border=true" alt="Top Languages"> |
 | --- | --- |
+
 *Note: most work is done in private repositories on and off GitHub (ADO, BitBucket, etc.)**
 
-## Find Me Here:
+## Find Me Here
 
 [![Discord](https://img.shields.io/badge/Brave%20Bear-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cNj3BZm)
 [![Twitch](https://img.shields.io/badge/Zoid__-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/zoid__)
 [![Twitter](https://img.shields.io/badge/Zoid__-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/zoid__)
 
-## Latest blog posts:
+## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
