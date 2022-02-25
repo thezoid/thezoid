@@ -1,42 +1,47 @@
 # Howdy 🤠
 
-![Views](https://komarev.com/ghpvc/?username=thezoid&style=for-the-badge)
+<p align="center">
+     <img src="https://komarev.com/ghpvc/?username=thezoid&style=for-the-badge" alt="views badge">
+</p>
 
 I'm Zoid, an IT Architect and DevSecOps engineer operating in the public and private space. I also make games and other automation oriented apps in my spare time!
 
 
-<figure>
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=thezoid&count_private=true&theme=github_dark&show_icons=true&line_height=40&hide_border=true" alt ="Github Stats">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezoid&count_private=true&theme=github_dark&line_height=10&hide_border=true" alt="Top Languages">
-     <figcaption align="center" ><i>Note: most work is done in private repositories on and off GitHub (ADO, BitBucket, etc.)</i></figcaption>
-</figure>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=thezoid&count_private=true&theme=github_dark&show_icons=true&line_height=40&hide_border=true" alt ="Github Stats"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezoid&count_private=true&theme=github_dark&line_height=10&hide_border=true" alt="Top Languages"> |
+| --- | --- |
+*Note: most work is done in private repositories on and off GitHub (ADO, BitBucket, etc.)**
 
 ## Find Me Here:
+
 [![Discord](https://img.shields.io/badge/Brave%20Bear-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cNj3BZm)
 [![Twitch](https://img.shields.io/badge/Zoid__-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/zoid__)
 [![Twitter](https://img.shields.io/badge/Zoid__-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/zoid__)
 
+## Latest blog posts:
 
-# Main Languages
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Main Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-# Platforms
+## Platforms
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-# DevOps
+## DevOps
 
 ![Azure DevOps](https://img.shields.io/badge/azure%20devops-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-# Libraries, Frameworks, and Technical  Tools
+## Libraries, Frameworks, and Technical  Tools
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -50,13 +55,13 @@ I'm Zoid, an IT Architect and DevSecOps engineer operating in the public and pri
 ![Azure ARM](https://img.shields.io/badge/ARM-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Bicep](https://img.shields.io/badge/Bicep-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-# Databases
+## Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-# OS
+## OS
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -75,8 +80,6 @@ I'm Zoid, an IT Architect and DevSecOps engineer operating in the public and pri
 
 # Check out these repos
 
+[![Bluebeary](https://github-readme-stats.vercel.app/api/pin/?username=thezoid&repo=bluebeary&theme=github_dark&show_icons=true&hide_border=true&show_owner=true)](https://github.com/thezoid/bluebeary)
 [![ShopPyBot](https://github-readme-stats.vercel.app/api/pin/?username=thezoid&repo=ShopPyBot&theme=github_dark&show_icons=true&hide_border=true&show_owner=true)](https://github.com/thezoid/ShopPyBot)
 [![Social Scraper](https://github-readme-stats.vercel.app/api/pin/?username=thezoid&repo=social-scraper&theme=github_dark&show_icons=true&hide_border=true&show_owner=true)](https://github.com/thezoid/social-scraper)
-
-[![TD Framework](https://github-readme-stats.vercel.app/api/pin/?username=thezoid&repo=UnityTD_Framework&theme=github_dark&show_icons=true&hide_border=true&show_owner=true)](https://github.com/thezoid/UnityTD_Framework)
-[![ShopPyBot](https://github-readme-stats.vercel.app/api/pin/?username=thezoid&repo=UnityTalentTree&theme=github_dark&show_icons=true&hide_border=true&show_owner=true)](https://github.com/thezoid/UnityTalentTree)
